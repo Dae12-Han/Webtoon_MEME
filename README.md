@@ -1,3 +1,10 @@
+## 결과물!
+<img src="./White-box-Cartoonization/test_code/results/tempbackground_0.png" width="400" height="600"/>
+<img src="./White-box-Cartoonization/test_code/results/tempbackground_1.png" width="400" height="600"/>
+<img src="./White-box-Cartoonization/test_code/results/tempbackground_2.png" width="400" height="600"/>
+<img src="./White-box-Cartoonization/test_code/results/tempbackground_3.png" width="400" height="600"/>
+<img src="./White-box-Cartoonization/test_code/results/tempbackground_4.png" width="400" height="600"/>
+
 ### 전체 프로젝트 하나로 합치기
 실행: 터미널 -> sh demo.sh 입력
 
